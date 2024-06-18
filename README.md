@@ -4,3 +4,4 @@
 
 # Instructions
  - First install packages
+   - npm install discord.js sequelize sqlite3 isomorphic-fetch discord-html-transcripts

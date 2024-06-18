@@ -1,0 +1,1 @@
+start npm install discord.js sequelize sqlite3 isomorphic-fetch discord-html-transcripts
